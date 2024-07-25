@@ -2,9 +2,12 @@ This is a plain text file
 testing the change file xxxxxxx
 hjjhhsdsad
 test
-workflow
-
+changed ths line
 
 second change in the file
 XXXXXX
 testing
+
+added 
+added a new line.
+xxxxx
